@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="assets/logo.svg">;
+    <link rel="stylesheet" href="./style/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" media="screen and (min-width:320px) and (max-width: 600px)" href="smallscreen.css">
+  <link rel="stylesheet" media="screen and (min-width:601px) and (max-width: 1024px)" href="mediumscreen.css">
+</head>
+<body>
+    <div class="navbar">
+        <img src="assets/logo.svg" alt="" class="navLogo contactNav" data-aos="zoom-in-left"  data-aos-duration="3000"/>
+        <div class="option contactOption">
+            <a style="text-decoration: none;" href="index.html"><p class="contactOp">Home</p></a>
+            <a style="text-decoration: none;" href="contact.html"><p class="contactOp second" >Contact us</p></a>
+        </div>
+        <a  href="call.html"><button class="navButton">Schedule a Call Today</button></a>
+    </div>
+
+    <div class="form-container call">
+        <h1>Apply to Work With Us!</h1> 
+        <form>
+            <label for="firstName">First Name</label><br>
+            <input type="text" placeholder="Your first name here" name="firstName" class="firstName"><br>
+            <label for="lastName">Last Name</label><br>
+            <input type="text" placeholder="Your last name here" name="lastName"><br>
+            <label for="emailAddress">Email Address</label><br>
+            <input type="text" placeholder="Your email address here" name="emailAddress"><br>
+            <label for="phoneNumber">Phone Number </label><br>
+            <input type="text" placeholder="1+ (123)-456-789" name="phoneNumber"><br>
+            <label for="question1">Do you have at least 40k in available credit or cash to purchase <br> inventory?</label><br>
+            <input type="text" placeholder="Select one..." name="question1"><br>
+            <label for="question2">How Did You Hear About Us?</label><br>
+            <input type="text" placeholder="Select one..." name="question2"><br>
+            <button type="submit" value="" id="submitButtton">Submit Application </button><br>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,198 @@
+body{
+    width: 100%;
+   background-image: none;
+}
+.navLogo {
+    width: 130px;
+    height: 70px;
+    padding-left: 30px;
+}
+.option {
+    display: flex;
+    margin-left: -390px;
+    margin-top: 10px;
+}
+.navButton {
+    position: relative;
+    font-family: gilroyBold;
+    width: 170px;
+    height: 56px;
+    border-radius: 28px;
+    cursor: pointer;
+    border: none;
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+    background: transparent;
+    border: 1px solid #484949;
+    margin-left: -400px;
+}
+.heading h1 {
+    text-align: center;
+    font-size: 80px;
+    background: -webkit-linear-gradient( rgba(221, 230, 255, 1) 30%, rgba(255, 243, 232, 1) 100% );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-left: -173px;
+}
+.heading p {
+    font-family: gilroyRegular;
+    font-size: 18px;
+    line-height: 30px;
+    color: #C4C6D6;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: -180px;
+}
+.callArea img {
+    height: 80px;
+    width: 120px;
+    margin-left: -319px;
+}
+.video-section {
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+    width: 90%;
+    margin-left: -4%;
+}
+.automation {
+    width: 77%;
+    margin-left: 3%;
+}
+.advantages {
+    display: flex;
+    width: 100%;
+    margin-left: 10%;
+    flex-direction: column;
+}
+.advantageContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 85%;
+    margin-top: 100px;
+}
+.advantageCard {
+    background-color: #201e28;
+    margin-top: 20px;
+    height: 380px;
+    padding: 10px;
+    width: 78%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-right: 20px;
+    text-align: center;
+}
+.advantageCard h3 {
+    font-size: 36px;
+    font-weight: 800;
+    margin-top: 20px;
+}
+.advantageCard p {
+    font-weight: 700;
+    cursor: pointer;
+    color: #c4c6d6;
+    font-family: gilroyRegular;
+    font-size: 20px;
+    margin-top: 15px;
+}
+.exampleCard {
+    width: 76%;
+    margin-left: 3%;
+    margin-top: 40px;
+    background-color: #201e28;
+    height: 724px;
+}
+.ShipSquadExample h1 {
+    text-align: center;
+    background: -webkit-linear-gradient( rgba(221, 230, 255, 1) 30%, rgba(255, 243, 232, 1) 100% );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 60px;
+    font-weight: 700;
+    margin-top: 100px;
+    margin-left: -189px;
+}
+.slider {
+    width: 76%;
+    margin-left: 3%;
+    margin-top: 100px;
+    display: flex;
+    height: 100%;
+}
+.sliderCard{
+    margin-left: 20px;
+}
+#rightArrow {
+    margin-right: 465px;
+    margin-top: 319px;
+}
+#leftArrow {
+    margin-left: 21px;
+    margin-top: 319px;
+}
+.howwork {
+    margin-top: 160px;
+    width: 78%;
+    margin-left: 3%;
+}
+.ship-squad-cards {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+.ship-squad {
+    margin-top: 100px;
+    width: 73%;
+    margin-left: 5%;
+}
+.about-seo {
+    margin-top: 10px;
+    width: 90%;
+    text-align: center;
+    margin-left: 3%;
+}
+.ceoImage {
+    width: 500px;
+    height: 600px;
+    background: linear-gradient( 
+133.95deg, #f7941d -13.98%, #ee4163 57.42%, #8a2be2 112.06% );
+    background-position: left 20px top 50px;
+    background-repeat: no-repeat;
+    background-size: 446px 543px;
+    margin-left: 42%;
+}
+.title {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 32%;
+}
+.about-seo {
+    margin-top: -68px;
+    width: 90%;
+    text-align: center;
+    margin-left: 3%;
+}
+.about-seo h4 {
+    font-size: 50px;
+    background: -webkit-linear-gradient( rgba(221, 230, 255, 1) 30%, rgba(255, 243, 232, 1) 100% );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-left: 43px;
+    margin-top: 140px;
+}
+.getReady {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 83%;
+}
+.footer {
+    width: 78%;
+    margin-left: 2%;
+    margin-top: 60px;
+}
