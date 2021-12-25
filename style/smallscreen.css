@@ -1,9 +1,9 @@
 body{
     width: 100%;
-   background-image: none;
+    background-image: none;
 }
 .navLogo {
-    width: 130px;
+    width: 100%;
     height: 70px;
     padding-left: 30px;
 }
