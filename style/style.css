@@ -20,10 +20,10 @@
   }
 body {
   background-color: #131119 !important;
-  background-image: url(../assets/background.png), url(../assets/Ellipse\ 72.png), url(../assets/Vector\ 8.svg), url(../assets/background2.png), url(../assets/background.png), url(../assets/background2.png), url(../assets/background.png), url(../assets/background2.png), url(../assets/background.png), url(../assets/background2.png), url(../assets/background.png), url(../assets/background2.png),url(../assets/background.png) ;
-  background-size: 450px 700px, 1200px 1200px, 1200px 900px, 450px 700px, 450px 700px,450px 700px, 450px 700px, 450px 700px, 450px 700px, 450px 700px, 450px 700px, 450px 700px, 450px 700px;
-  background-position: left 200px, top, right 0px, right 500px, left 1200px, right 1900px, left 2900px, right 3700px, left 4200px, right 4500px, left 5000px, right 5200px, left 5800px;
-  background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat;
+  background-image: url(../assets/background.png), url(../assets/Ellipse\ 72.png), url(../assets/Vector\ 8.svg), url(../assets/background2.png), url(../assets/background.png), url(../assets/background2.png), url(../assets/background.png), url(../assets/background2.png), url(../assets/background.png), url(../assets/background2.png), url(../assets/background.png), url(../assets/background2.png);
+  background-size: 450px 700px, 1200px 1200px, 1200px 900px, 450px 700px, 450px 700px,450px 700px, 450px 700px, 450px 700px, 450px 700px, 450px 700px, 450px 700px, 450px 700px;
+  background-position: left 200px, top, right 0px, right 550px, left 1350px, right 2100px, left 2900px, right 4000px, left 4600px, right 5300px, left 5800px, right 6500px;
+  background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat;
 }
 
 .home {
