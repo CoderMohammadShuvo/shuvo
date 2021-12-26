@@ -385,6 +385,9 @@ video{
     margin-right: 0px;
     margin-top: 20px;
 }
+.cards p br{
+    display: none;
+}
 .ship-squad {
     margin-top: 50px;
     width: 90%;
